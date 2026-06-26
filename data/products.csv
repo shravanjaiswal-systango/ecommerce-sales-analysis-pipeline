@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+P001,Product_1,Sports,20120.0
+P002,Product_2,Electronics,58048.0
+P003,Product_3,Clothing,17832.0
+P004,Product_4,Electronics,58808.0
+P005,Product_5,Electronics,49155.0
+P006,Product_6,Sports,10687.0
+P007,Product_7,Furniture,18965.0
+P008,Product_8,Sports,14303.0
+P009,Product_9,Furniture,13842.0
+P010,Product_10,Furniture,33622.0
+P011,Product_11,Home & Kitchen,
+P012,Product_12,Electronics,6548.0
+P013,Product_13,Home & Kitchen,54852.0
+P014,Product_14,Furniture,3389.0
+P015,Product_15,Electronics,22359.0
+P016,Product_16,Clothing,42253.0
+P017,Product_17,Furniture,11089.0
+P018,Product_18,Home & Kitchen,36654.0
+P019,Product_19,Home & Kitchen,37259.0
+P020,Product_20,Electronics,7831.0
+P021,Product_21,Electronics,58375.0
+P022,Product_22,Clothing,36255.0
+P023,Product_23,Electronics,55196.0
+P024,Product_24,Furniture,38675.0
+P025,Product_25,Sports,10205.0
+P026,Product_26,Home & Kitchen,8852.0
+P027,Product_27,Electronics,20702.0
+P028,Product_28,Furniture,59415.0
+P029,Product_29,Electronics,59411.0
+P030,Product_30,Furniture,14267.0
+P031,Product_31,Clothing,44208.0
+P032,Product_32,Electronics,23678.0
+P033,Product_33,Sports,58442.0
+P034,Product_34,Home & Kitchen,41175.0
+P035,Product_35,Clothing,16014.0
+P036,Product_36,Clothing,52921.0
+P037,Product_37,Clothing,58264.0
+P038,Product_38,Home & Kitchen,2124.0
+P039,Product_39,Clothing,48771.0
+P040,Product_40,Furniture,51774.0
+P041,Product_41,Home & Kitchen,53075.0
+P042,Product_42,Clothing,17985.0
+P043,Product_43,Clothing,52101.0
+P044,Product_44,Electronics,25570.0
+P045,Product_45,Electronics,56768.0
+P046,Product_46,Home & Kitchen,15077.0
+P047,Product_47,Clothing,54015.0
+P048,Product_48,Home & Kitchen,23415.0
+P049,Product_49,Furniture,54274.0
+P050,Product_50,Clothing,15109.0

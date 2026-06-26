@@ -1,0 +1,11 @@
+customer_id,customer_name,total_spent,order_count
+C142,Customer_142,3603752.0,10
+C036,Customer_36,3480698.0,10
+C164,Customer_164,3230728.0,7
+C192,Customer_192,3130191.0,9
+C091,Customer_91,2965810.0,9
+C030,Customer_30,2821245.0,10
+C169,Customer_169,2814919.0,6
+C153,Customer_153,2778626.0,10
+C080,Customer_80,2735809.0,9
+C194,Customer_194,2549645.0,7
